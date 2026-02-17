@@ -10,7 +10,6 @@ const App = () => {
     <main>
       <NavBar />
       <HeroSection />
-      <div className="h-dvh border border-red-500"></div>
     </main>
   );
 };
